@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there! 👋
+## My name is Munnir!
 
 🔭 I’m currently working on getting an associate's degree in Data Science from Riverside City College.
 
